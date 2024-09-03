@@ -2,7 +2,7 @@
   Gerenciador de Tarefas - Todolist
 </h2>
 
-### v1.0 - [https://allecosta.github.io/todolist/](https://allecosta.github.io/todolist/)
+### v1.0 - [https://github.com/MrMadaraUchiha/Task-Manager/](https://github.com/MrMadaraUchiha/Task-Manager/)
 
 <br>
 
