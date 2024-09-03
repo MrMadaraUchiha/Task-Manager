@@ -1,5 +1,5 @@
 <h2 align="center">
-  Gerenciador de Tarefas - Todolist
+  Gerenciador de Tarefas - Task-Manager
 </h2>
 
 ### v1.0 - [https://github.com/MrMadaraUchiha/Task-Manager/](https://github.com/MrMadaraUchiha/Task-Manager/)
